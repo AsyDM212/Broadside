@@ -1,10 +1,13 @@
-# Broadside!
+# The Lantern Wake games
 
-A 2D pirate ship battle that runs in the browser. Sink the grey fleet across five waves using cannons and three crew powers.
+Original pirate browser games. `index.html` is the game picker, and each game is a single page in its own folder:
 
-The whole game is `index.html`. Open it in a browser to play, or host it with GitHub Pages.
+- `broadside/` - Broadside!, a 2D ship battle. Sink the grey fleet across five waves using cannons and three crew powers.
+- `island-hopper/` - Island Hopper, a treasure voyage with three island mini-games.
 
-## Controls
+Open any of them in a browser to play, or host the repo with GitHub Pages.
+
+## Broadside! controls
 
 - A / D or arrow keys: steer
 - W / S: speed up or slow down
